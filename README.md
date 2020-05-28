@@ -4,7 +4,7 @@ Exploring ARCH /GARCH methods and their application in modelling the changing va
 
 ## Abstract
 
-This project is a basic exploration of methods modelling the changing variance in time series model. More specifically it is an introduction to Autoregressive Conditional Heteroskedasticity and Generalized Autoregressive Conditional Heteroskedasticity models `ARCH` and `GARCH`. It is an extension of the exploration and application of the Auto Regressive Integrated Moving Average methods `ARIMA` used to model future air quality measures conducted as part of the major's STAT 495 final project. This study is meant to show the application of these novel methods in modelling the changing variance of time of a time series. The data used in this study is obtained from the S&P 500 index, which is a measure that estimates the performance of 500 companies listed in the United States Stock exchange market.
+This project is a basic exploration of methods modelling the changing variance in time series models. More specifically, it is an introduction to Autoregressive Conditional Heteroskedasticity and Generalized Autoregressive Conditional Heteroskedasticity models `ARCH` and `GARCH`. It is an extension of the exploration and application of the Auto Regressive Integrated Moving Average methods `ARIMA` used to model future air quality measures conducted as part of the major's STAT 495 final project. In this study, we will see the application of these novel methods in modelling the changing variance of time in time series. The data used in this study are obtained from the S&P 500 index, which is a measure that estimates the performance of 500 companies listed in the United States Stock exchange market.
 
 ## Summary
 
