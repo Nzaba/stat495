@@ -1,6 +1,6 @@
 # STAT 495 : 
 
-Exploring ARCH /GARCH methods and their application in modelling the changing variance of time in predicting stock prices
+Autoregresive models and their application in modelling the changing variance of time in predicting stock prices
 
 ## Abstract
 
